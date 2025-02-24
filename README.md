@@ -10,6 +10,8 @@ Bu proje, Discord için geliştirilmiş bir bottur.
    Botun çalışması için aşağıdaki kütüphanelerin yüklü olması gerekir. Terminale şu komutu yazın:  
    ```bash
    pip install discord pillow requests
+2. python bot.py ile botu çalıştırın
+
 -tweet MESAJ içeriğinizi yazarak komutu kullanabilirsiniz.En aşağıdaki token kısmına botunuzun tokenini yazmayı unutmayın.
 
 Backgrounds klasöründe istediğiniz arka planları ekleyebilirsiniz.Bot random olarak seçip kullanacaktır.
